@@ -1,0 +1,26 @@
+# Compiled files
+target/
+*.class
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# IDE specific files
+.vscode/
+.settings/
+.idea/
+*.iml
+.project
+.classpath
+
+# Generated files
+.apt_generated/
+.apt_generated_tests/
+
+# Environment variables
+.env
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
